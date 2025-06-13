@@ -14,7 +14,7 @@ This project aims to estimate **biological age** from medical and dermatological
 - Feature selection and transformation.
 - Creation of a new **`age_range`** column for classification purposes.
 ![image](https://github.com/user-attachments/assets/9fa148c3-70e1-4739-99c3-9eebcdfa36cc)
-![image](https://github.com/user-attachments/assets/9fa148c3-70e1-4739-99c3-9eebcdfa36cc)
+
 
 ## 📊 Data Visualization
 
@@ -23,7 +23,7 @@ Various plots and charts were generated to explore:
 - Correlations between features
 - Differences between age ranges
 ![image](https://github.com/user-attachments/assets/9b15f474-28b9-432d-a54a-2bcbfee806a9)
-![image](https://github.com/user-attachments/assets/9b15f474-28b9-432d-a54a-2bcbfee806a9)
+
 
 ## 🤖 Machine Learning Models
 
@@ -38,7 +38,7 @@ Applied both **regression** and **classification** algorithms, including:
 - Error margins and model performance metrics (e.g., RMSE, R²) were visualized and compared.
 - Classification accuracy was assessed across age ranges.
   ![image](https://github.com/user-attachments/assets/8656101f-46ea-42c3-a122-a80008a6f741)
-![image](https://github.com/user-attachments/assets/8656101f-46ea-42c3-a122-a80008a6f741)
+
 
 
 ## 🛠 Technologies Used
